@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://byoptimos.com/sitemap.xml
